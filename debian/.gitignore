@@ -1,0 +1,8 @@
+.debhelper/
+debhelper-build-stamp
+files
+*.substvars
+seiscomp/
+libseiscomp-dev/
+libseiscomp0/
+tmp/

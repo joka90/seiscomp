@@ -20,3 +20,6 @@
 /src/extras/*
 !/src/extras/CMakeLists.txt
 !/src/extras/README
+
+# Debian package build
+obj-*/
